@@ -10,5 +10,3 @@ export function fetchParams(item) {
     return res.json();
   });
 }
-
-
